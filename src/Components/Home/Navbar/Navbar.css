@@ -1,0 +1,18 @@
+.navbar img{
+    width: 130px;
+}
+
+.login-btn{
+    color: white!important;
+    padding: 8px 10px;
+    background: rgb(31, 90, 199);
+    text-decoration: none!important;
+    border-radius: 5px;
+}
+
+.nav-link:hover {
+color: rgb(47, 213, 255) !important;
+}
+.menu-icon{
+    background-color:white !important;
+  }

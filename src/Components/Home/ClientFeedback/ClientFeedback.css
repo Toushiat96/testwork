@@ -1,0 +1,9 @@
+
+.profile{
+   padding:20px 10px 10px;
+   background-color:#efefef;
+}
+
+.profile:hover{
+    box-shadow: 0 0 1px 5px rgb(0,0,0,0.2)
+}
